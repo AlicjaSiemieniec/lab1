@@ -2,4 +2,5 @@
 
 pierwsze zajecia
 
-druga linijka pierwsza galaz
+druga linijka pierwsza galaz 
+konflikt
