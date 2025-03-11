@@ -1,6 +1,7 @@
-# lab1
+# lab1test
 
-pierwsze zajecia
+
+
 
 druga linijka pierwsza galaz 
-konflikt
+
