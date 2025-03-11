@@ -2,4 +2,4 @@
 
 pierwsze zajecia
 
-druga linijka
+druga linijka pierwsza galaz
