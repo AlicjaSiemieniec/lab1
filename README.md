@@ -1,4 +1,4 @@
-# lab1
+# lab1test
 
 pierwsze zajecia
 
