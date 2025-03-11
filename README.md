@@ -2,5 +2,6 @@
 
 
 
-druga linijka
-test
+
+druga linijka pierwsza galaz 
+
